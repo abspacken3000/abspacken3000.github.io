@@ -1,0 +1,22 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: #fff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 100vh;
+}
+
+.navbar {
+  width: 100%;
+}
+
+.content {
+  flex: 1 1 auto;
+  width: 100%;
+}
